@@ -1,0 +1,10 @@
+F:\Windowns\ThemSV\ThemSV\bin\Debug\ThemSV.exe.config
+F:\Windowns\ThemSV\ThemSV\bin\Debug\ThemSV.exe
+F:\Windowns\ThemSV\ThemSV\bin\Debug\ThemSV.pdb
+F:\Windowns\ThemSV\ThemSV\obj\Debug\ThemSV.csprojAssemblyReference.cache
+F:\Windowns\ThemSV\ThemSV\obj\Debug\ThemSV.Form1.resources
+F:\Windowns\ThemSV\ThemSV\obj\Debug\ThemSV.Properties.Resources.resources
+F:\Windowns\ThemSV\ThemSV\obj\Debug\ThemSV.csproj.GenerateResource.cache
+F:\Windowns\ThemSV\ThemSV\obj\Debug\ThemSV.csproj.CoreCompileInputs.cache
+F:\Windowns\ThemSV\ThemSV\obj\Debug\ThemSV.exe
+F:\Windowns\ThemSV\ThemSV\obj\Debug\ThemSV.pdb
